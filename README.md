@@ -10,4 +10,4 @@ This project demonstrates how to configure AWS, create EC2 instances using Terra
 
 ### Steps
 
-Refer to the document: [Terraform]([https://docs.google.com/document/d/1_JCrEvCsbX-fuE7ojt04dSnQVIOshg_UAwGeHP2sxMI/edit?usp=sharing](https://docs.google.com/document/d/1ri8HpFoiXrLezSjmQLTwwb_oAp2m3Zf9HeF6zI_g2dQ/edit?usp=sharing))
+Refer to the document: [Terraform](https://docs.google.com/document/d/1ri8HpFoiXrLezSjmQLTwwb_oAp2m3Zf9HeF6zI_g2dQ/edit?usp=sharing)
